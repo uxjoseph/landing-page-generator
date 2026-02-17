@@ -109,7 +109,7 @@ tools:
 
 - **이미지 너비**: 1200px (고정)
 - **총 높이**: ~7,000px (가변)
-- **API**: Gemini 2.0 Flash (이미지 생성)
+- **API**: Gemini 3.0 Pro (이미지 생성)
 - **스크립트**: Python (Pillow)
 
 ## 참조 문서
