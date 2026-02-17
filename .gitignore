@@ -1,0 +1,34 @@
+# Environment variables (실제 API 키)
+.env
+
+# Output folders (생성된 결과물)
+output/
+output_*/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/
+.mcp.json
+.playwright-mcp/
+
+# Logs
+*.log
